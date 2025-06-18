@@ -15,7 +15,7 @@ To predict a student's score based on the number of hours they studied.
 
 ### 📂 Dataset
 - **Columns**: `Hours`, `Scores`
-- Source: [You can mention source or just say "Synthetic dataset"]
+
 
 ### 📊 Techniques Used
 - Data visualization (scatter plot)
